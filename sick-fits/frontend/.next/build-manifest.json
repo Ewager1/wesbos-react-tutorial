@@ -1,0 +1,57 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-eef578260fd80f8fff94.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/J9vdz9MZA0gmA5LPQLbEV/_buildManifest.js",
+    "static/J9vdz9MZA0gmA5LPQLbEV/_ssgManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-af8d060cb140570bcfb2.js",
+      "static/chunks/framework-42f40c0346d132351ac3.js",
+      "static/chunks/main-0780dc073edca84dd826.js",
+      "static/chunks/pages/index-63818724cee4147963d7.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-af8d060cb140570bcfb2.js",
+      "static/chunks/framework-42f40c0346d132351ac3.js",
+      "static/chunks/main-0780dc073edca84dd826.js",
+      "static/css/c3b1d057778ec90242e9.css",
+      "static/chunks/pages/_app-06d53ab4f0a7ed20f13f.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-af8d060cb140570bcfb2.js",
+      "static/chunks/framework-42f40c0346d132351ac3.js",
+      "static/chunks/main-0780dc073edca84dd826.js",
+      "static/chunks/pages/_error-a9f53acb468cbab8a6cb.js"
+    ],
+    "/account": [
+      "static/chunks/webpack-af8d060cb140570bcfb2.js",
+      "static/chunks/framework-42f40c0346d132351ac3.js",
+      "static/chunks/main-0780dc073edca84dd826.js",
+      "static/chunks/pages/account-d4ec73c84963a2498cb9.js"
+    ],
+    "/orders": [
+      "static/chunks/webpack-af8d060cb140570bcfb2.js",
+      "static/chunks/framework-42f40c0346d132351ac3.js",
+      "static/chunks/main-0780dc073edca84dd826.js",
+      "static/chunks/pages/orders-770804226354ee13f4d7.js"
+    ],
+    "/products": [
+      "static/chunks/webpack-af8d060cb140570bcfb2.js",
+      "static/chunks/framework-42f40c0346d132351ac3.js",
+      "static/chunks/main-0780dc073edca84dd826.js",
+      "static/chunks/pages/products-93079b318ad4c83adb4f.js"
+    ],
+    "/sell": [
+      "static/chunks/webpack-af8d060cb140570bcfb2.js",
+      "static/chunks/framework-42f40c0346d132351ac3.js",
+      "static/chunks/main-0780dc073edca84dd826.js",
+      "static/chunks/pages/sell-e942faacdaa588cf7c04.js"
+    ]
+  },
+  "ampFirstPages": []
+}
